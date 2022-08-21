@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/user-handler-for-list-of-animes-project-remake.iml" filepath="$PROJECT_DIR$/.idea/user-handler-for-list-of-animes-project-remake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-handling-for-anime-list-project/user-handling-for-anime-list-project.iml" filepath="$PROJECT_DIR$/user-handling-for-anime-list-project/user-handling-for-anime-list-project.iml" />
+    </modules>
+  </component>
+</project>
