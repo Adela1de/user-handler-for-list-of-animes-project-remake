@@ -28,7 +28,7 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: java-app
-          path: '${{ github.workspace }}/target/*.jar'
+          path: 'user-handler-for-list-of-animes-project-remake/out/artifacts/user_handler_for_list_of_animes_project_remake_jar/user-handler-for-list-of-animes-project-remake.jar.jar'
 
   deploy:
     runs-on: ubuntu-latest

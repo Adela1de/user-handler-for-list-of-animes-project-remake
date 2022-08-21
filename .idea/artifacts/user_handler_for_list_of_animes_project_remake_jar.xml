@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="user-handler-for-list-of-animes-project-remake:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/user_handler_for_list_of_animes_project_remake_jar</output-path>
+    <root id="archive" name="user-handler-for-list-of-animes-project-remake.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
